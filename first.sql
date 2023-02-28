@@ -2,7 +2,7 @@ a)
 create table students(student_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,Firstname VARCHAR (50) NOT NULL,lastname VARCHAR (50) NOT NULL);
 
 
-
+// some code at change in side
 create table grades(student_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,gpa FLOAT NOT NULL);
 
 
